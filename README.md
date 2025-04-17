@@ -15,7 +15,7 @@
 
 ###
 
-<p align="left">I´m from Germany, specifically the Münsterland region. ⛺️<br>I am currently pursuing my advanced technical college certificate as an IT assistant. 🏫<br> I design websites and online shops for businesses and individuals, manage social media strategies, and have a proven track record in professional food retail management, focusing on customer relations and sales optimization. 💼<br>Additionally, I serve as a firefighter. 🚒<br>In my free time, I enjoy playing Poly Bridge (3), skiing, and connecting with others.</p>
+<p align="left">I´m from Germany, specifically the Münsterland region. ⛺️<br>I am currently pursuing my advanced technical college certificate as an IT assistant. 🏫<br> I design websites and online shops for businesses and individuals, manage social media strategies, and have a proven track record in professional food retail management, focusing on customer relations and sales optimization. 💼<br>Additionally, I serve as a firefighter. 🚒<br>In my free time, I enjoy playing Poly Bridge (2), skiing, and connecting with others.</p>
 
 #####
 
