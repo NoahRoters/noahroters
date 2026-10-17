@@ -1,100 +1,110 @@
-<div align="center">
+<br clear="both">
 
-<img src="./assets/header.svg" alt="Hi, I'm Noah — software development, open source, curious by default" width="100%" />
+<h1 align="left">Hi 👋!  It´s me Noah,</h1>
 
-<br>
+#####
+[![youtube channel link](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)]([https://youtube.com/c/bobbyg603](https://www.youtube.com/@DorfladenLeer))
+[![instagram profile link](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)]([https://instagram.com/bobbyg603](https://www.instagram.com/noah.austrup/))
+[![discord server link](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](discordapp.com/users/734091808258392115)
+[![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/31vf4nn4ylpra4gtyxtdml2sh7ja)
+[![Mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:austrup.noah@gmail.com)
 
-**Software Developer Apprentice** &nbsp;·&nbsp; **Open Source Contributor** &nbsp;·&nbsp; **Germany 🇩🇪**
+#####
 
-*I like understanding how things work, building useful solutions, and learning something new along the way.*
+<h2 align="left">🙋‍♂️ About me</h2>
 
-<br>
+###
 
-[![GitHub followers](https://img.shields.io/github/followers/NoahRoters?style=flat-square&label=Followers&color=42bda7)](https://github.com/NoahRoters?tab=followers)
-![Profile views](https://komarev.com/ghpvc/?username=NoahRoters&style=flat-square&color=6374a7)
+<p align="left">I´m from Germany, specifically the Münsterland region. ⛺️<br>I am currently pursuing my advanced technical college certificate as an IT assistant. 🏫<br> I design websites and online shops for businesses and individuals, manage social media strategies, and have a proven track record in professional food retail management, focusing on customer relations and sales optimization. 💼<br>Additionally, I serve as a firefighter. 🚒<br>In my free time, I enjoy playing Poly Bridge (2), skiing, and connecting with others.</p>
 
+#####
+
+<img align="right" height="375" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdG1qMXFvcGZ2YzB4azdtejdueDNmcmZuOTRqcTg0cHBwdXM0OWUwZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iE43NInpLy8P6/giphy.gif"  />
+
+###
+
+<h2 align="left">🔨 worked/ working with</h2>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="78" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="78" alt="csharp logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="78" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="78" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="78" alt="php logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="78" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="78" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="78" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="78" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" height="78" alt="ubuntu logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="78" alt="arduino logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discordjs/discordjs-original.svg" height="78" alt="discordjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="78" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="78" alt="visualstudio logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/shopware/shopware-original.svg" height="78" alt="shopware logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ifttt/ifttt-original.svg" height="78" alt="ifttt logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="78" alt="canva logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="78" alt="photoshop logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gimp/gimp-original.svg" height="78" alt="gimp logo"  />
 </div>
 
----
+#####
 
-### `> about --me`
+<h2 align="left">🗺️ Languages I´m learning </h2>
 
-```yaml
-name: Noah
-role: Software Developer Apprentice
-location: Germany
-interests:
-  - software engineering
-  - open source & collaboration
-  - web technologies
-  - automation & tooling
-mindset: "Stay curious. Keep building."
-```
+<a href="https://www.duolingo.com/profile/Noah_Rot">
+  <img src="assets/englisch-duolingo.svg" height="50px">
+</a>
+<a href="https://www.duolingo.com/profile/Noah_Rot">
+  <img src="assets/dutch-duolingo.svg" height="50px">
+</a>
+<a href="https://www.duolingo.com/profile/Noah_Rot">
+  <img src="assets/turkey-duolingo.svg" height="50px">
+</a>
 
-<details open>
-<summary><h3>🌆 Contribution city & activity</h3></summary>
+<h3 align="left">Achievements I made while learning these languages on <img src="assets/duo-icon.svg" height="20px"></h3>
 
-<p align="center">
-  <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D visualization of my GitHub contributions, generated daily" width="100%" />
+<p align="left"> 
+  <a href="https://www.duolingo.com/profile/Noah_Rot" rel="noreferrer"> <img src="assets/duo-top.png"  height="250px"/> </a> 
+  <a href="https://www.duolingo.com/profile/Noah_Rot" rel="noreferrer"> <img src="assets/duo-perfect-lessons.png" height="250px"/> </a>  
+  <a href="https://www.duolingo.com/profile/Noah_Rot" rel="noreferrer"> <img src="assets/duo-streak.png" height="250px"/> </a>  
+</p>
+<p align="left"> 
+  <a href="https://www.duolingo.com/profile/Noah_Rot" rel="noreferrer"> <img src="assets/duo-diamond.png"  height="250px"/> </a> 
+  <a href="https://www.duolingo.com/profile/Noah_Rot" rel="noreferrer"> <img src="assets/duo-re.png" height="250px"/> </a>  
+  <a href="https://www.duolingo.com/profile/Noah_Rot" rel="noreferrer"> <img src="assets/duo-5diamond.png" height="250px"/> </a>  
 </p>
 
-<sub>Generated from my GitHub contribution calendar. Refreshes daily after the workflow runs.</sub>
 
-</details>
+#####
 
-<details>
-<summary><h3>🛠️ My toolbox</h3></summary>
+<h2 align="center">📈 GitHub statistics</h2>
 
-<sub>A selection of technologies and tools I work with or explore - not a list of claimed expertise.</sub>
-
-<br><br>
-
-**Languages & markup**
-
-![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-663399?style=flat-square&logo=css&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
-
-**Platforms & workflow**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-
-</details>
-
-<details>
-<summary><h3>📈 Stats & coding rhythm</h3></summary>
+###
 
 <div align="center">
-
-<img src="./assets/stats.svg" alt="GitHub statistics, periodically generated" width="49%" />
-<img src="./assets/top-langs.svg" alt="Language distribution in public repositories" width="49%" />
-
+  <img src="https://github-readme-stats.vercel.app/api?username=NoahRoters&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=vision-friendly-dark&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=NoahRoters&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=vision-friendly-dark&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
-<sub>Language percentages reflect repository code, not personal proficiency. Statistics depend on GitHub API access and update when the workflow runs.</sub>
+#####
 
-</details>
-
-<details>
-<summary><h3>☕ My status desk</h3></summary>
-
-<div align="center">
-
-<img src="./assets/status-desk.svg" alt="Illustrated developer desk showing the time of the last generated status snapshot" width="90%" />
-
-</div>
-
-<sub>An automatically refreshed snapshot in Europe/Berlin time - not a real-time presence indicator. No activity or employer tracking.</sub>
-
-</details>
-
-<details>
-<summary><h3>🌱 Extra experiments</h3></summary>
-
-I'm always interested in creative ways to visualize software development: contribution maps, evolving pixel art, generative SVGs, and small automations that make everyday work easier.
-
-</details>
-
----
-
-<div align="center">
-  <sub>Made with curiosity, caffeine, and a bit of automation. ☕</sub>
-</div>
