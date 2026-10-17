@@ -10,8 +10,8 @@
 
 <br>
 
-[![GitHub followers](https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?style=flat-square&label=Followers&color=42bda7)](https://github.com/YOUR_GITHUB_USERNAME?tab=followers)
-![Profile views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=flat-square&color=6374a7)
+[![GitHub followers](https://img.shields.io/github/followers/NoahRoters?style=flat-square&label=Followers&color=42bda7)](https://github.com/NoahRoters?tab=followers)
+![Profile views](https://komarev.com/ghpvc/?username=NoahRoters&style=flat-square&color=6374a7)
 
 </div>
 
